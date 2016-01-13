@@ -1,0 +1,19 @@
+{
+  "name": "dasherize",
+  "version": "1.0.0",
+  "description": "Convert string to dash style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polyvitamins/dasherize.git"
+  },
+  "author": "Vladimir Kalmykov <vladimirmorulus@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polyvitamins/dasherize/issues"
+  },
+  "homepage": "https://github.com/polyvitamins/dasherize#readme"
+}
